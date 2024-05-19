@@ -115,7 +115,7 @@ class GUI(tk.Tk):                # The GUI function, it calls the other function
 
     def labels(self):               # Title and update area
         title = "Pix Sticky 2.1 (Alpha)"
-        title_2 = "by 'Pixy (The Trnasporter)' or 'ThatRandomFuckingDev'"
+        title_2 = "by 'Pixy (The Transporter)' or 'ThatRandomFuckingDev'"
         update = "What is new?"
         update_text1 = "I added the bottom scrollbar so it's easier"
         update_text2 = "The text is larger, and thus you can read it"
